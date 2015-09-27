@@ -11,8 +11,8 @@ This book contains the variables, the data, and any transformations or work that
 
 Create below mentioned tidy data sets for future analysis:
 
-(1) single train, test dataset with descriptive variable names
-(2) avg. of each variable & activity  per subject
+1. single train, test dataset with descriptive variable names
+2. avg. of each variable & activity  per subject
 
 Step 1 : 
 Download raw data file from internet
